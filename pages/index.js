@@ -52,7 +52,7 @@ export default function Home() {
             <h3 className="text-2xl py-2">Software Developer</h3>
             <p className="text-md py-5 leading-8 text-gray-800">
               I am 25 years old and I am a Student at FH Hagenberg. I am
-              studying "Mobile Computing" at 5 semester. I love developing cool
+              studying Mobile Computing at 5 semester. I love developing cool
               Apps and Web Apps.
             </p>
           </div>
